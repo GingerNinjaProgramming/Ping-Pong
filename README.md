@@ -1,26 +1,22 @@
-# Raylib C++ Starter Template
+# Pong
 
-Raylib C++ Starter Template for Visual Studio Code on Windows.
+Hello as you can see I made pong utilizing raylib :)
 
-This demo project contains a bouncing ball raylib example program.
+## Controls
 
-It works with raylib version 4.5.
-Tested on both Windows 10 and Windows 11.
+W | S keys - Left paddle up down
+Up ^ | Down v Arrows - Right paddle up down
 
-# Video Tutorial
+## IMPORTANT 
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
+For full disclosure I used a github project to act as a template which had a basic ball bouncing and had a c++ set up in such a way to allow for raylib programming.
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+The [License](LICENSE.TXT) is still attached as well to ensure I am being 100% transparent
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
-</p>
+I also utilized AI resources to answer some questions as i am quite new with C++ as a language and using raylib.
 
+GitHub Template  [Here](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE) 
+
+Hope you enjoy my first raylib project 
+
+![image](https://i.redd.it/8a0wds8pzwmb1.jpg)
